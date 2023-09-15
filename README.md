@@ -18,5 +18,21 @@ Desenvolvido a partir do repositório: https:github.com/anuraghazra/github-readm
     <img height="30" width="40" alt="Sergio-CSS" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     <img height="30" width="40" alt="Sergio-JAVASCRIPT" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
     <img height="30" width="40" alt="Sergio-NODEJS" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-    
+</div>
+<br>
+<div>
+    <!-- botões para mídias sociais -->
+    <!-- badges prontos: https://dev.to/envoy_/150-badges-for-github-pnk -->
+    <a href="www.facebook.com/scmerces" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    </a>
+    <a href="www.instagram/ei_merces" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="mailto:sergio.merces@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://dev.to/sergiomerces" target="_blank">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+    </a>
 </div>
