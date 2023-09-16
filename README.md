@@ -4,7 +4,6 @@ Escrito por: Sérgio Merces
 Desenvolvido a partir do repositório: https:github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
 -->
 
-
 <div style="display: inline_block"><br>
     <!--trocar o valor do username para o nome do usuário, e theme para o nome do seu tema preferido-->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiomerces&show_icons=true&theme=omni&include_all_commits=true&count_private-true"/>
