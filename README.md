@@ -1,8 +1,9 @@
-# Hello world, I'm Sergio Merces! 👋🏾
 <!--
-Escrito por: Sérgio Merces
+Escrito por: Sérgio Merces em 15 de setembro de 2023
 Desenvolvido a partir do repositório: https:github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
 -->
+
+# Hello world, I'm Sérgio Mercês! 👋🏾
 
 <div style="display: inline_block"><br>
     <!--trocar o valor do username para o nome do usuário, e theme para o nome do seu tema preferido-->
