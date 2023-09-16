@@ -36,4 +36,7 @@ Desenvolvido a partir do repositório: https:github.com/anuraghazra/github-readm
     <a href="https://dev.to/sergiomerces" target="_blank">
         <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
     </a>
+
+    ![Snake animation](https://github.com/sergiomerces/sergiomerces/blob/output/github-contribution-grid-snake.svg)
+
 </div>
