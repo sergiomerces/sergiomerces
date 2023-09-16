@@ -27,7 +27,7 @@ Desenvolvido a partir do repositório: https:github.com/anuraghazra/github-readm
     <a href="https://www.facebook.com/scmerces" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
     </a>
-    <a href="https://www.instagram/ei_merces" target="_blank">
+    <a href="https://www.instagram.com/ei_merces" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
     <a href="mailto:sergio.merces@gmail.com" target="_blank">
