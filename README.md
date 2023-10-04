@@ -5,6 +5,8 @@ Desenvolvido a partir do repositório: https:github.com/anuraghazra/github-readm
 
 # Hello world, I'm Sérgio Mercês! 👋🏾
 
+### Estudando Desenvolvimento Web Front-End
+
 <div style="display: inline_block"><br>
     <!--trocar o valor do username para o nome do usuário, e theme para o nome do seu tema preferido-->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiomerces&show_icons=true&theme=omni&include_all_commits=true&count_private-true"/>
@@ -13,6 +15,8 @@ Desenvolvido a partir do repositório: https:github.com/anuraghazra/github-readm
 <br>
 <div>
     <!-- substituir o nome da linguagem para a qual se quer acrescentar no link -->
+    <img height="30" width="40" alt="Sergio-C" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+    <img height="30" width="40" alt="Sergio-NODEJS" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
     <img height="30" width="40" alt="Sergio-C" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
     <img height="30" width="40" alt="Sergio-HTML" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     <img height="30" width="40" alt="Sergio-CSS" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
