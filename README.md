@@ -22,6 +22,7 @@ Desenvolvido a partir do repositório: https:github.com/anuraghazra/github-readm
     <img height="30" width="40" alt="Sergio-CSS" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     <img height="30" width="40" alt="Sergio-JAVASCRIPT" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
     <img height="30" width="40" alt="Sergio-NODEJS" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+    <img height="30" width="40" alt="Sergio-TYPESCRIPT" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
 </div>
 <hr>
 <div>
