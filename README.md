@@ -28,7 +28,8 @@ Desenvolvido a partir do repositório: https:github.com/anuraghazra/github-readm
 <div>
     <!-- botões para mídias sociais -->
     <!-- badges prontos: https://dev.to/envoy_/150-badges-for-github-pnk -->
-    <a href="https://www.facebook.com/scmerces" target="_blank">
+   <!-- 
+         <a href="https://www.facebook.com/scmerces" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
     </a>
     <a href="https://www.instagram.com/ei_merces" target="_blank">
@@ -40,4 +41,5 @@ Desenvolvido a partir do repositório: https:github.com/anuraghazra/github-readm
     <a href="https://dev.to/sergiomerces" target="_blank">
         <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
     </a>
+    -->
 </div>
