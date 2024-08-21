@@ -5,7 +5,7 @@ Desenvolvido a partir do repositório: https:github.com/anuraghazra/github-readm
 
 # Hello world, I'm Sérgio Mercês! 👋🏾
 
-### Estudando Desenvolvimento em Java
+### Retomando Frontend Web Development
 
 <div style="display: inline_block"><br>
     <!--trocar o valor do username para o nome do usuário, e theme para o nome do seu tema preferido-->
