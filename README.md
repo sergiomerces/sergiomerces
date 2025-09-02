@@ -16,7 +16,7 @@ Desenvolvido a partir do repositório: https:github.com/anuraghazra/github-readm
 <div>
     <!-- substituir o nome da linguagem para a qual se quer acrescentar no link -->
     <img height="30" width="40" alt="Sergio-C" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-    <img height="30" width="40" alt="Sergio-PYTHON" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pyton/python-original.svg"/>
+    <img height="30" width="40" alt="Sergio-PYTHON" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     <img height="30" width="40" alt="Sergio-NODEJS" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
     <img height="30" width="40" alt="Sergio-C" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
     <img height="30" width="40" alt="Sergio-HTML" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
