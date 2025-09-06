@@ -17,13 +17,13 @@ Desenvolvido a partir do repositório: https:github.com/anuraghazra/github-readm
     <!-- substituir o nome da linguagem para a qual se quer acrescentar no link -->
     <img height="30" width="40" alt="Sergio-LINUX" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
     <img height="30" width="40" alt="Sergio-GIT" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-    <img height="30" width="40" alt="Sergio-C" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-    <img height="30" width="40" alt="Sergio-PYTHON" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     <img height="30" width="40" alt="Sergio-HTML" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     <img height="30" width="40" alt="Sergio-CSS" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     <img height="30" width="40" alt="Sergio-JAVASCRIPT" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
     <img height="30" width="40" alt="Sergio-NODEJS" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
     <img height="30" width="40" alt="Sergio-TYPESCRIPT" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+     <img height="30" width="40" alt="Sergio-C" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+    <img height="30" width="40" alt="Sergio-PYTHON" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     
 </div>
 <hr>
