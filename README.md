@@ -24,7 +24,7 @@ Desenvolvido a partir do repositório: https:github.com/anuraghazra/github-readm
     <img height="30" width="40" alt="Sergio-TYPESCRIPT" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
     <img height="30" width="40" alt="Sergio-C" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
     <img height="30" width="40" alt="Sergio-PYTHON" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-    
+    <img height="30" width="40" alt="Sergio-MYSQL" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
 </div>
 <hr>
 <div>
