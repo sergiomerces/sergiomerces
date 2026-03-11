@@ -22,9 +22,9 @@ Desenvolvido a partir do repositório: https:github.com/anuraghazra/github-readm
     <img height="30" width="40" alt="Sergio-JAVASCRIPT" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
     <img height="30" width="40" alt="Sergio-NODEJS" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
     <img height="30" width="40" alt="Sergio-TYPESCRIPT" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-     <img height="30" width="40" alt="Sergio-C" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+    <img height="30" width="40" alt="Sergio-C" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
     <img height="30" width="40" alt="Sergio-PYTHON" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-    
+    <img height="30" width="40" alt="Sergio-DATA" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/data/data-original.svg"/>
 </div>
 <hr>
 <div>
