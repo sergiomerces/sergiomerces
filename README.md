@@ -24,6 +24,8 @@ Undergraduate student in Web Development, with a preference for the frontend tra
 </div>
 
 <br>
+<br>
+<br>
 
 ### Socials
 
