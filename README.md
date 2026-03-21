@@ -23,6 +23,8 @@ Undergraduate student in Web Development, with a preference for the frontend tra
 
 </div>
 
+<br>
+
 ### Socials
 
 <div style="display: block">
