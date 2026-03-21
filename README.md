@@ -20,6 +20,6 @@ Undergraduate student in Web Development, with a preference for the frontend tra
 
 ### My GitHub Stats
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sergiomerces&show_icons=true&locale=en" alt="sergiomerces" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sergiomerces&show_icons=true&locale=en" alt="sergiomerces" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiomerces&show_icons=true&locale=en&layout=compact" alt="sergiomerces" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiomerces&show_icons=true&locale=en&layout=compact" alt="sergiomerces" /></p>
