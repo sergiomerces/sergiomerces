@@ -25,3 +25,9 @@ Undergraduate student in Web Development, with a preference for the frontend tra
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiomerces&show_icons=true&locale=en&layout=compact" alt="sergiomerces" /></p>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
